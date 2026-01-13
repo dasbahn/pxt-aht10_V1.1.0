@@ -1,7 +1,7 @@
 
 {
   "name": "pxt-aht10",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "AHT10 Temperatur- und Feuchtigkeitssensor für BBC micro:bit (MakeCode)",
   "license": "MIT",
   "dependencies": {
