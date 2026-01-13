@@ -1,0 +1,13 @@
+{
+    "name": "aht10",
+    "version": "1.0.0",
+    "description": "AHT10 temperature and humidity sensor",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "public": true
+}
