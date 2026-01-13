@@ -10,7 +10,7 @@
  */
 
 //% color="#5C9DFF" icon="\uf2c9" block="AHT10"
-namespace AHT10v014 {
+namespace AHT10 {
     const DEFAULT_ADDR = 0x38
     let _initialized = false
     let _address = DEFAULT_ADDR
